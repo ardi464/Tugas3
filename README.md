@@ -2,10 +2,7 @@
 Aplikasi Flutter Jenis Olahraga Merupakan Aplikasi yang menampilkan berbagai macam jenis olahraga.
 
 ### Screenshot
-Homepage
 ![Flutter Apps](https://raw.githubusercontent.com/ardi464/Tugas3/master/screenshots/Home.jpeg) 
-
-DetailPage
 ![Flutter Apps](https://raw.githubusercontent.com/ardi464/Tugas3/master/screenshots/Detail.jpeg)
 
 ### Built With
